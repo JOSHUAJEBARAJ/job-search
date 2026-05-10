@@ -1,0 +1,6 @@
+[worker]
+name = "job-search"
+compatibility_date = "2025-01-01"
+
+[assets]
+directory = "./book"

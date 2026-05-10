@@ -1,0 +1,13 @@
+[book]
+title = "Job Hunt Journal"
+authors = ["Joshua Jebaraj"]
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = ""
